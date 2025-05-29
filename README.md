@@ -15,8 +15,8 @@ This project is built with a modern technology stack, ensuring a responsive and 
 * **User Authentication:** Secure registration and login functionalities.
 * **Activity Matching:** Find and connect with other users based on shared activity preferences.
 * **User Profiles:** Create and manage personal profiles to showcase interests.
-* **Secure Communication:** (If you plan to implement this later, you can add it!)
-* **Twilio Integration:** (Mention if you're using Twilio for SMS verification or notifications, which seems likely given past discussions!)
+* **Secure Communication:** 
+* **Twilio Integration:** Using Twilio for SMS notifications
 
 ---
 
@@ -47,7 +47,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 Make sure you have the following installed:
 
 * **Node.js** (LTS version recommended)
-* **npm** (comes with Node.js) or **Yarn**
+* **npm** (comes with Node.js)
 
 ### Installation
 
